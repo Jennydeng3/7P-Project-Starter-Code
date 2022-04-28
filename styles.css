@@ -1,0 +1,17 @@
+body {
+    background-color: #ffeded;
+    font-family: 'Syne Mono', monospace;
+}
+
+h2 {
+    color: #fa0575;
+}
+
+p {
+    color: blue;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
